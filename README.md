@@ -1,7 +1,7 @@
 # Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer
 
-The official implementation of our ECCV 2022 paper "Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer".
-[[Paper]](https://arxiv.org/abs/2208.03767) [[Project Page]](https://cscct.github.io)
+The official implementation of our ECCV 2022 paper "Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer".<br>
+<a href="https://arxiv.org/abs/2208.03767" target="_blank">[Paper]</a> <a href="https://cscct.github.io" target="_blank">[Project Page]</a>
 
 ## Getting Started
 
