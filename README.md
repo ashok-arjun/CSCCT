@@ -1,5 +1,8 @@
 # Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer
 
+The official implementation of our ECCV 2022 paper "Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer".
+[[Paper]](https://arxiv.org/abs/2208.03767) [[Project Page]](https://cscct.github.io)
+
 ## Getting Started
 
 In order to run this repository, we advise you to install python 3.6 and PyTorch 1.2.0 with Anaconda.
@@ -75,3 +78,13 @@ To download ImageNet-Subset, the full ImageNet dataset from [the official ImageN
 ### Running Experiments on ImageNet
 
 To run the experiments on ImageNet-Subset, you need to change the hyperparameters according to [this file](https://github.com/hshustc/CVPR19_Incremental_Learning/blob/master/imagenet-class-incremental/cbf_class_incremental_cosine_imagenet.py). 
+
+## Bibtex
+
+If you find this code useful, please cite our work:
+```
+@article{ashok2022class, 
+title={Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer}, 
+author={Ashok, Arjun and Joseph, KJ and Balasubramanian, Vineeth}, 
+journal={arXiv preprint arXiv:2208.03767}, year={2022} }
+```
